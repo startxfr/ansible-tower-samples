@@ -1,0 +1,7 @@
+demo3.example.com
+
+[teststatic]
+demo4.example.com
+
+[teststatic:vars]
+myvar=static
